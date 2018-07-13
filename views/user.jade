@@ -1,0 +1,25 @@
+extends layout
+
+block content
+  h1= title
+  a(href='/new_student') Add New Student || 
+   a(href='/new_user') Add New User || 
+    a(href='/utama') Logout 
+  div
+    table(border='1')
+      thead
+        th ID
+        th Email
+        th Password
+        th Nama
+        th Action 
+      tbody
+        each s in members
+          tr
+            td #{s.id}
+            td #{s.email}
+            td #{s.password}
+            td #{s.fullname}
+                td #[a(href='/user_detail/'+s.id) Detail] | #[a(href='/update_user/'+s.id) Edit] | #[a(href='/delete_user/'+s.id) Delete]
+  
+        

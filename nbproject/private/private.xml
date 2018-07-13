@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/domains/member.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/index.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/user.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/controllers/user_controller.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/controllers/member_controller.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/new_student.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/utama.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/config/passport.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/login.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/domains/student.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/layout.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/update_student.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/profile.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/config/mysql_config.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/package.json</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/user_detail.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/repositories/student_repository.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/controllers/student_controller.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/new_user.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/package-lock.json</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/error.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/app/repositories/member_repository.js</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/student_detail.jade</file>
+            <file>file:/C:/Users/PC/Documents/NetBeansProjects/belajar-crud_2/views/update_user.jade</file>
+        </group>
+    </open-files>
+</project-private>
